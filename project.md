@@ -17,3 +17,10 @@ A web application for real-time monitoring of servers and services.
 
 ## Goal
 Learning how to integrate DevOps tools in a single project.
+
+## Roadmap
+- [ ] Set up project structure
+- [ ] Implement basic server monitoring
+- [ ] Create dashboard UI
+- [ ] Add alerting system
+- [ ] Write documentation
